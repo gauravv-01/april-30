@@ -1,0 +1,11 @@
+*{
+    margin: 20px 0px 0px 20px;
+    color: rgb(0, 8, 255);
+}
+
+#custom
+{
+    margin: 0px;
+    padding: 0px 10px 10px 10px;
+    border: 10px solid red;
+}
